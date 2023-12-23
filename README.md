@@ -7,7 +7,7 @@
 ```react
 npm install
 npm run dev
-/localhost/
+/localhost/${port}
 ```
 
 © COPYRIGHTED AND LICENSED BY NIKOLA MADUNIC 2023
