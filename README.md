@@ -1,7 +1,12 @@
-# TEST-PHASE OF WEBSITE FOUNDED BY ADRIATIC PIXELS LLC 
+# TEST-PHASE OF WEBSITE BY ADRIATIC PIXELS LLC 
+- Custom made 3D models
+- Entirely in ThreeJS and AngularJS
+* Scroll-to-move
+  
 # HOW TO RUN
 ```react
 npm install
 npm run dev
 /localhost/
 ```
+© COPYRIGHTED AND LICENSED BY NIKOLA MADUNIC 2023
