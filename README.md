@@ -9,4 +9,5 @@ npm install
 npm run dev
 /localhost/
 ```
+
 © COPYRIGHTED AND LICENSED BY NIKOLA MADUNIC 2023
